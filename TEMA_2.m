@@ -50,10 +50,4 @@ s_reconstruit=zeros(1,perioada);
 	plot(real(s_reconstruit),'--','color','g')
 	title('Semnalul initial cu magenta, semnalul reconstruit cu verde punctat')
 	
-	%Explicatii:
-	%Semnalul reconstruit pe baza formulei, folosind acei N coeficienti
-	%calculati, reprezinta , cum observam si in formula, o suma de sinusi, si daca
-	%marim numarul de coeficienti N, aproiem si semnalul recunstruit de forma
-	%sa ideala (triunghi) , iar daca micsoram numarulde coef.
-	%N, putem observa pe figura sinusii , adica cum e reconstruit semnnalul
-	%ca atare.
+	
